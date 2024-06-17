@@ -186,6 +186,9 @@ header{
     padding-left: 1rem;
     font-size: 1.3rem;
 }
+.Adress{
+    padding:2rem ;
+}
 .shop-address{
     padding-bottom: 2rem;
 }
@@ -262,9 +265,15 @@ body h1{
     display: none !important;
 }
 .Address{
-    margin-bottom: 2rem;
-    margin-left: 2rem !important;
-    margin-right: 2rem !important;
+    margin-bottom: 2rem !important;
+    margin-left: 1.8rem !important;
+    margin-right: 1.8rem !important;
+}
+.Address h2{
+    font-size: 1.8rem;
+}
+.Address p{
+    font-size: 1.2rem;
 }
 .top-image{
     width:90%;
@@ -273,7 +282,7 @@ body h1{
     text-align: center;
 }
 .footer-nav{  
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin: 1rem;
 }
 .menubtn{
@@ -292,6 +301,9 @@ body h1{
 .navlist1{
     display: inline-block !important;
     width: 100% ;
+}
+.Adress{
+    padding:0px !important;
 }
 
 }
