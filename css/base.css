@@ -48,7 +48,7 @@ header{
     background-color: lightgray;
 
 }
-.swiper-container{
+.swiper{
     background-color: #FFEFD5;
 }
 .navbar{
@@ -100,7 +100,7 @@ header{
     font-size: 1.7rem !important;
     margin-right: 2rem;
 }
-.swiper-container,
+.swiper,
 .swiper-slide {
    height: 70vh;
    z-index: 1 !important;

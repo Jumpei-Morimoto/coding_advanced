@@ -37,7 +37,7 @@ $(function() {
         });
       });
  });
-  const mySwiper = new Swiper('.swiper-container', {
+  const mySwiper = new Swiper('.swiper', {
     loop: true, 
     loopedSlides: 4,
     pagination: {
